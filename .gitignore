@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+*.tgz
+.DS_Store
+.env
+.env.*
+src/
+test/
+package.json
+tsconfig.json
+tsup.config.ts
+package-lock.json
+dist
